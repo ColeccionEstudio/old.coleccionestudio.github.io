@@ -1,0 +1,96 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="coleccionestudio.mx" resolutions="1x" timestamp="1472842132182">
+  <folder name="css">
+    <file name="site_global.css" crc="3851831669"/>
+    <file name="contacto.css" crc="4149899042" ref="contacto"/>
+    <file name="nomq_contacto.css" crc="4118077493" ref="contacto"/>
+    <file name="iefonts_contacto.css" crc="4246279515" ref="contacto"/>
+    <file name="nosotros.css" crc="136505761" ref="nosotros"/>
+    <file name="nomq_nosotros.css" crc="4044216541" ref="nosotros"/>
+    <file name="portafolio.css" crc="3953992258" ref="portafolio"/>
+    <file name="nomq_portafolio.css" crc="4128954983" ref="portafolio"/>
+    <file name="index.css" crc="484276836" ref="index"/>
+    <file name="nomq_index.css" crc="3909192459" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:contacto:portafolio:nosotros"/>
+    <file name="museutils.js" crc="3790713428" ref="index:contacto:portafolio:nosotros"/>
+    <file name="whatinput.js" crc="84559013" ref="index:contacto:portafolio:nosotros"/>
+    <file name="webpro.js" crc="329496574" ref="index:contacto"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
+    <file name="touchswipe.js" crc="497316881" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:contacto:portafolio:nosotros"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:contacto:portafolio:nosotros"/>
+    <file name="form_check.php" crc="3805695515" ref="contacto"/>
+    <file name="form_throttle.php" crc="3802629389" ref="contacto"/>
+    <file name="form_process.php" crc="54267062" ref="contacto"/>
+    <file name="form-u891.php" crc="4163656375" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="215880017" ref="index"/>
+    <file name="ac_layout copy-06.jpg" crc="4045132920" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:contacto:portafolio:nosotros"/>
+    <file name="ac_layout copy-05.png" crc="3914547238" seo="true" ref="index"/>
+    <file name="ac_layout copy-04.jpg" crc="521969474" seo="true" ref="index"/>
+    <file name="ac_layout copy-01.jpg" crc="3828071142" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logo.svg" crc="3800310616" ref="index"/>
+    <file name="logo_poster_.png" crc="3828179325" ref="index"/>
+    <file name="layouts dorada-07.png" crc="4056899281" seo="true" ref="index:contacto:portafolio:nosotros"/>
+    <file name="redes_facebook.svg" crc="4292919436" ref="index:contacto:portafolio:nosotros"/>
+    <file name="redes_facebook_poster_.png" crc="4181981333" ref="index"/>
+    <file name="redes_twitter.svg" crc="28647720" ref="index:contacto:portafolio:nosotros"/>
+    <file name="redes_twitter_poster_.png" crc="59825724" ref="index"/>
+    <file name="redes_instagram.svg" crc="200370200" ref="index:contacto:portafolio:nosotros"/>
+    <file name="redes_instagram_poster_.png" crc="4110303979" ref="index"/>
+    <file name="u907-17.png" crc="285789140" ref="contacto"/>
+    <file name="u907-17-r.png" crc="4294115263" ref="contacto"/>
+    <file name="u907-17-m.png" crc="4216675909" ref="contacto"/>
+    <file name="u907-17-fs.png" crc="254700072" ref="contacto"/>
+    <file name="imagotipo.svg" crc="169636175" ref="contacto:portafolio:nosotros"/>
+    <file name="imagotipo_poster_.png" crc="509841404" ref="contacto"/>
+    <file name="lineas-01-07.png" crc="115679310" seo="true" ref="contacto"/>
+    <file name="u907-172.png" crc="285789140" ref="contacto"/>
+    <file name="u907-17-r2.png" crc="4294115263" ref="contacto"/>
+    <file name="u907-17-m2.png" crc="4216675909" ref="contacto"/>
+    <file name="u907-17-fs2.png" crc="254700072" ref="contacto"/>
+    <file name="u907-173.png" crc="285789140" ref="contacto"/>
+    <file name="u907-17-r3.png" crc="4294115263" ref="contacto"/>
+    <file name="u907-17-m3.png" crc="4216675909" ref="contacto"/>
+    <file name="u907-17-fs3.png" crc="254700072" ref="contacto"/>
+    <file name="coleccion_estudio_repisaa_3-crop-u5261.jpg" crc="3814366635" ref="portafolio"/>
+    <file name="coleccion_estudio_loma_1-crop-u5071.jpg" crc="3993953107" ref="portafolio"/>
+    <file name="coleccion_estudio_oficinaa_1-crop-u5164.jpg" crc="4036684198" ref="portafolio"/>
+    <file name="sillones.jpg" crc="273597802" seo="true" ref="portafolio"/>
+    <file name="coleccion_estudio_repisab_2-crop-u5354.jpg" crc="410793675" ref="portafolio"/>
+    <file name="coleccion_estudio_shopsuey_1-crop-u5477.jpg" crc="212161967" ref="portafolio"/>
+    <file name="coleccion_estudio_shopsuey_2-crop-u5575.jpg" crc="3978623649" ref="portafolio"/>
+    <file name="coleccion_estudio_repisab_rnd1-crop-u5696.jpg" crc="190795841" ref="portafolio"/>
+    <file name="coleccion_estudio_interior_2-crop-u4940.jpg" crc="3947364095" ref="portafolio"/>
+    <file name="repisa_comoda288-crop-u6035.jpg" crc="384179832" ref="portafolio"/>
+    <file name="coleccion_estudio_loma_2-crop-u5948.jpg" crc="174504269" ref="portafolio"/>
+    <file name="comodas.png" crc="330307130" seo="true" ref="portafolio"/>
+    <file name="coleccion_estudio_repisab_2-crop-u53542.jpg" crc="469183055" ref="portafolio"/>
+    <file name="coleccion_estudio_loma_1-crop-u50712.jpg" crc="4088669332" ref="portafolio"/>
+    <file name="coleccion_estudio_oficinaa_1-crop-u51642.jpg" crc="4024132716" ref="portafolio"/>
+    <file name="coleccion_estudio_repisaa_3-crop-u52612.jpg" crc="271107908" ref="portafolio"/>
+    <file name="coleccion_estudio_interior_2-crop-u49402.jpg" crc="276163377" ref="portafolio"/>
+    <file name="coleccion_estudio_shopsuey_1-crop-u54772.jpg" crc="3762585443" ref="portafolio"/>
+    <file name="coleccion_estudio_shopsuey_2-crop-u55752.jpg" crc="510691434" ref="portafolio"/>
+    <file name="coleccion_estudio_repisab_rnd1-crop-u56962.jpg" crc="154852793" ref="portafolio"/>
+    <file name="repisa_comoda288-crop-u60352.jpg" crc="339874368" ref="portafolio"/>
+    <file name="coleccion_estudio_loma_2-crop-u59482.jpg" crc="4105281760" ref="portafolio"/>
+    <file name="coleccion_estudio_oficinaa_1-crop-u51643.jpg" crc="4149055270" ref="portafolio"/>
+    <file name="coleccion_estudio_loma_1-crop-u50713.jpg" crc="143469415" ref="portafolio"/>
+    <file name="coleccion_estudio_shopsuey_1-crop-u54773.jpg" crc="3947213985" ref="portafolio"/>
+    <file name="coleccion_estudio_repisab_2-crop-u53543.jpg" crc="488869153" ref="portafolio"/>
+    <file name="coleccion_estudio_loma_2-crop-u59483.jpg" crc="4024951476" ref="portafolio"/>
+    <file name="repisa_comoda288-crop-u60353.jpg" crc="159964961" ref="portafolio"/>
+    <file name="coleccion_estudio_loma_2.jpg" crc="4096990678" seo="true" ref="nosotros"/>
+    <file name="coleccion_estudio_loma_2320x207.jpg" crc="3798323134" seo="true" ref="nosotros"/>
+  </folder>
+  <file name="index.html" crc="3881839835" seo="true" mt="1472842094506" redirect="true"/>
+  <file name="contacto.html" crc="80469501" seo="true" mt="1472841899275" redirect="true"/>
+  <file name="portafolio.html" crc="124207994" seo="true" mt="1472841887113" redirect="true"/>
+  <file name="nosotros.html" crc="446860595" seo="true" mt="1468347019744" redirect="true"/>
+</manifest>
